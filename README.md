@@ -1,1 +1,2 @@
 # Mobile-Phones
+SleekGadgets, a tech startup, wants to venture into selling phones on Jumia, Nigeria's no.1 ecommerce platform. To boost their chances making sales, they need to populate their online store with phones that will sell fast. But they do not know which brands buyers prefer. As a data analyst, I have been brought onboard to extract insight from the data of phones stocked on Jumia and make recommendations on the top 7 brands.
